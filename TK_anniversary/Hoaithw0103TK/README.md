@@ -1,5 +1,5 @@
-# Happy Birthday Hạnhng*o :D
+# Happy Anniversary 5 months :D
 
-A simple birthday page made for you, who light up my life!
+A simple gift I made for you, who light up my life!
 
-Let's open the index.html file in the browser window to receive your gift :>
+Let open the index.html file in the browser window to receive your gift :>
